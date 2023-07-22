@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AbdellahGo.github.io/react-bootstrap-app/static/css/main.69579983.css",
+    "main.js": "/AbdellahGo.github.io/react-bootstrap-app/static/js/main.ed494964.js",
+    "static/media/fundamentals.svg": "/AbdellahGo.github.io/react-bootstrap-app/static/media/fundamentals.bca9b3dc9e000805551f6f7f2cf64918.svg",
+    "static/media/react.svg": "/AbdellahGo.github.io/react-bootstrap-app/static/media/react.0960bd7ea577f3d0f49d260a7e410905.svg",
+    "static/media/showcase.svg": "/AbdellahGo.github.io/react-bootstrap-app/static/media/showcase.e48f3c0e72d7c6d73d8810d7bd2d5657.svg",
+    "index.html": "/AbdellahGo.github.io/react-bootstrap-app/index.html",
+    "main.69579983.css.map": "/AbdellahGo.github.io/react-bootstrap-app/static/css/main.69579983.css.map",
+    "main.ed494964.js.map": "/AbdellahGo.github.io/react-bootstrap-app/static/js/main.ed494964.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69579983.css",
+    "static/js/main.ed494964.js"
+  ]
+}
